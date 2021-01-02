@@ -1,0 +1,15 @@
+species,diet,isotope,diet_to_collagen,source
+chicken,commercial turkey starter,d13C,0.8,Hobson and Clark 1992
+quail,commercial turkey starter,d13C,2.7,Hobson and Clark 1992
+gull,perch,d13C,2.6,Hobson and Clark 1992
+mouse,wayne lab-blox f6,d13C,4.4,DeNiro and Epstein 1981
+mouse,jax 911a,d13C,3.8,DeNiro and Epstein 1981
+mouse,purina rat chow,d13C,3.5,DeNiro and Epstein 1981
+mouse,wayne lab-blox f6,d13C,3.7,DeNiro and Epstein 1978
+mouse,jax 911a,d13C,2.8,DeNiro and Epstein 1978
+chicken,commercial turkey starter,d15N,1.5,Hobson and Clark 1992
+quail,commercial turkey starter,d15N,2.5,Hobson and Clark 1992
+gull,perch,d15N,3.1,Hobson and Clark 1992
+mouse,purina rat chow,d15N,1.4,DeNiro and Epstein 1981
+mouse,wayne lab-blox f6,d15N,2.5,DeNiro and Epstein 1981
+mouse,jax 911a,d15N,3.4,DeNiro and Epstein 1981

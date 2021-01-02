@@ -1,0 +1,97 @@
+common name,group,isotope,value,corrected,source
+indian rice grass,C3,d13C,-23.3,-21.65,Coltrain and Leavitt 2002
+indian rice grass,C3,d13C,-22.5,-20.85,Coltrain and Leavitt 2002
+pinyon,C3,d13C,-21.2,-19.55,Coltrain and Leavitt 2002
+acorn nut meat,C3,d13C,-25.2,-23.55,Coltrain and Leavitt 2002
+chenopodium seeds,C3,d13C,-25.5,-25.5,Spielmann et al. 1990
+sand dropseed,C3,d13C,-27.55,-25.9,Stearns 2010
+sagebrush,C3,d13C,-28.3,-26.65,Stearns 2010
+sagebrush,C3,d13C,-28.1,-26.45,Stearns 2010
+winterfat,C3,d13C,-28.4,-26.75,Stearns 2010
+indian rice grass,C3,d15N,2.6,2.6,Coltrain and Leavitt 2002
+indian rice grass,C3,d15N,4.1,4.1,Coltrain and Leavitt 2002
+pinyon,C3,d15N,1,1,Coltrain and Leavitt 2002
+acorn nut meat,C3,d15N,0.3,0.3,Coltrain and Leavitt 2002
+chenopodium seeds,C3,d15N,8.1,8.1,Spielmann et al. 1990
+sand dropseed,C3,d15N,-2.34,-2.34,Stearns 2010
+sagebrush,C3,d15N,0.007,0.007,Stearns 2010
+sagebrush,C3,d15N,-0.6,-0.6,Stearns 2010
+winterfat,C3,d15N,-0.76,-0.76,Stearns 2010
+maize,C4,d13C,-10.5,-10.5,Coltrain and Leavitt 2002
+maize,C4,d13C,-10.6,-10.6,Coltrain and Leavitt 2002
+maize,C4,d13C,-10.5,-10.5,Coltrain and Leavitt 2002
+maize,C4,d13C,-10,-10,Coltrain and Leavitt 2002
+maize,C4,d13C,-10.7,-10.7,Coltrain and Leavitt 2002
+maize,C4,d13C,-9.8,-9.8,Coltrain and Leavitt 2002
+maize,C4,d13C,-9.3,-9.3,Coltrain and Leavitt 2002
+maize,C4,d13C,-9.6,-9.6,Coltrain and Leavitt 2002
+maize,C4,d13C,-9.5,-9.5,Coltrain and Leavitt 2002
+maize,C4,d13C,-9.4,-9.4,Warinner et al. 2013
+amaranth,C4,d13C,-12.4,-10.75,Coltrain and Leavitt 2002
+amaranth,C4,d13C,-10.1,-10.1,Warinner et al. 2013
+amaranth,C4,d13C,-11.3,-11.3,Spielmann et al. 1990
+maize,C4,d15N,6.3,6.3,Coltrain and Leavitt 2002
+maize,C4,d15N,4.2,4.2,Coltrain and Leavitt 2002
+maize,C4,d15N,2.9,2.9,Coltrain and Leavitt 2002
+maize,C4,d15N,3.4,3.4,Coltrain and Leavitt 2002
+maize,C4,d15N,4.8,4.8,Coltrain and Leavitt 2002
+maize,C4,d15N,7.4,7.4,Coltrain and Leavitt 2002
+maize,C4,d15N,8.6,8.6,Coltrain and Leavitt 2002
+maize,C4,d15N,7.3,7.3,Coltrain and Leavitt 2002
+maize,C4,d15N,10.9,10.9,Coltrain and Leavitt 2002
+maize,C4,d15N,5.1,5.1,Warinner et al. 2013
+amaranth,C4,d15N,3.4,3.4,Coltrain and Leavitt 2002
+amaranth,C4,d15N,6.9,6.9,Warinner et al. 2013
+amaranth,C4,d15N,9,9,Spielmann et al. 1990
+prickly pear,CAM,d13C,-12.2,-10.55,Warinner et al. 2013
+prickly pear,CAM,d13C,-12.9,-11.25,Warinner et al. 2013
+prickly pear,CAM,d13C,-13.8,-12.15,Warinner et al. 2013
+prickly pear,CAM,d13C,-12.4,-10.75,Warinner et al. 2013
+prickly pear,CAM,d15N,5.8,5.8,Warinner et al. 2013
+prickly pear,CAM,d15N,4.5,4.5,Warinner et al. 2013
+prickly pear,CAM,d15N,1.4,1.4,Warinner et al. 2013
+prickly pear,CAM,d15N,-0.1,-0.1,Warinner et al. 2013
+none,C3 Invertebrates,d13C,-21.65,-22.18,Spence and Rosenheim 2005 (estimated)
+none,C3 Invertebrates,d13C,-20.85,-21.38,Spence and Rosenheim 2005 (estimated)
+none,C3 Invertebrates,d13C,-19.55,-20.08,Spence and Rosenheim 2005 (estimated)
+none,C3 Invertebrates,d13C,-23.55,-24.08,Spence and Rosenheim 2005 (estimated)
+none,C3 Invertebrates,d13C,-25.5,-26.03,Spence and Rosenheim 2005 (estimated)
+none,C3 Invertebrates,d13C,-25.9,-26.43,Spence and Rosenheim 2005 (estimated)
+none,C3 Invertebrates,d13C,-26.65,-27.18,Spence and Rosenheim 2005 (estimated)
+none,C3 Invertebrates,d13C,-26.45,-26.98,Spence and Rosenheim 2005 (estimated)
+none,C3 Invertebrates,d13C,-26.75,-27.28,Spence and Rosenheim 2005 (estimated)
+none,C4 Invertebrates,d13C,-10.5,-11.03,Spence and Rosenheim 2005 (estimated)
+none,C4 Invertebrates,d13C,-10.6,-11.13,Spence and Rosenheim 2005 (estimated)
+none,C4 Invertebrates,d13C,-10.5,-11.03,Spence and Rosenheim 2005 (estimated)
+none,C4 Invertebrates,d13C,-10,-10.53,Spence and Rosenheim 2005 (estimated)
+none,C4 Invertebrates,d13C,-10.7,-11.23,Spence and Rosenheim 2005 (estimated)
+none,C4 Invertebrates,d13C,-9.8,-10.33,Spence and Rosenheim 2005 (estimated)
+none,C4 Invertebrates,d13C,-9.3,-9.83,Spence and Rosenheim 2005 (estimated)
+none,C4 Invertebrates,d13C,-9.6,-10.13,Spence and Rosenheim 2005 (estimated)
+none,C4 Invertebrates,d13C,-9.5,-10.03,Spence and Rosenheim 2005 (estimated)
+none,C4 Invertebrates,d13C,-9.4,-9.93,Spence and Rosenheim 2005 (estimated)
+none,C4 Invertebrates,d13C,-10.75,-11.28,Spence and Rosenheim 2005 (estimated)
+none,C4 Invertebrates,d13C,-10.1,-10.63,Spence and Rosenheim 2005 (estimated)
+none,C4 Invertebrates,d13C,-11.3,-11.83,Spence and Rosenheim 2005 (estimated)
+none,C3 Invertebrates,d15N,2.6,4.48,Spence and Rosenheim 2005 (estimated)
+none,C3 Invertebrates,d15N,4.1,5.98,Spence and Rosenheim 2005 (estimated)
+none,C3 Invertebrates,d15N,1,2.88,Spence and Rosenheim 2005 (estimated)
+none,C3 Invertebrates,d15N,0.3,2.18,Spence and Rosenheim 2005 (estimated)
+none,C3 Invertebrates,d15N,8.1,9.98,Spence and Rosenheim 2005 (estimated)
+none,C3 Invertebrates,d15N,-2.34,-0.46,Spence and Rosenheim 2005 (estimated)
+none,C3 Invertebrates,d15N,0.007,1.887,Spence and Rosenheim 2005 (estimated)
+none,C3 Invertebrates,d15N,-0.6,1.28,Spence and Rosenheim 2005 (estimated)
+none,C3 Invertebrates,d15N,-0.76,1.12,Spence and Rosenheim 2005 (estimated)
+none,C4 Invertebrates,d15N,6.3,8.18,Spence and Rosenheim 2005 (estimated)
+none,C4 Invertebrates,d15N,4.2,6.08,Spence and Rosenheim 2005 (estimated)
+none,C4 Invertebrates,d15N,2.9,4.78,Spence and Rosenheim 2005 (estimated)
+none,C4 Invertebrates,d15N,3.4,5.28,Spence and Rosenheim 2005 (estimated)
+none,C4 Invertebrates,d15N,4.8,6.68,Spence and Rosenheim 2005 (estimated)
+none,C4 Invertebrates,d15N,7.4,9.28,Spence and Rosenheim 2005 (estimated)
+none,C4 Invertebrates,d15N,8.6,10.48,Spence and Rosenheim 2005 (estimated)
+none,C4 Invertebrates,d15N,7.3,9.18,Spence and Rosenheim 2005 (estimated)
+none,C4 Invertebrates,d15N,10.9,12.78,Spence and Rosenheim 2005 (estimated)
+none,C4 Invertebrates,d15N,5.1,6.98,Spence and Rosenheim 2005 (estimated)
+none,C4 Invertebrates,d15N,3.4,5.28,Spence and Rosenheim 2005 (estimated)
+none,C4 Invertebrates,d15N,6.9,8.78,Spence and Rosenheim 2005 (estimated)
+none,C4 Invertebrates,d15N,9,10.88,Spence and Rosenheim 2005 (estimated)
