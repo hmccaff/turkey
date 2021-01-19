@@ -18,7 +18,7 @@ Corrected values assigned to groups "C4 Invertebrates" and "C3 invertebrates" we
 
 **frac.csv** contains published fractionation values for animals. These are be used to input the fractionation correction means and SDs into the model.
 
-**turkeys_hm2014.csv** contains stable isotope data from McCaffery et al. 2014. Note this excludes one specimen in the published paper (1042.1) which was found to be erroneous after a second test. It also includes one Archaic specimen from Fresnal Rock Shelter that was not included in the published study.
+**turkeys_hm2014.csv** contains stable isotope data from McCaffery et al. 2014. Note this excludes one specimen in the published paper (1042.1) which was found to be erroneous after a second test. It also includes bone apatite isotope values from one Archaic specimen from Fresnal Rock Shelter that was not included in the published study.
 
 ## References
 
