@@ -24,4 +24,4 @@ Corrected values assigned to groups "C4 Invertebrates" and "C3 invertebrates" we
 
 McCaffery H, Tykot R, Gore K, DeBoer B (2014). Stable Isotope Analysis of Turkey (Meleagris gallopavo) Diet from Pueblo II and Pueblo III Sites, Middle San Juan Region, Northwest New Mexico. American Antiquity 79: 337-352.
 
-Andrew Parnell (2020). simmr: A Stable Isotope Mixing Model. R package version 0.4.2. https://CRAN.R-project.org/package=simmr
+Parnell A (2020). simmr: A Stable Isotope Mixing Model. R package version 0.4.2. https://CRAN.R-project.org/package=simmr
