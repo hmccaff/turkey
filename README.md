@@ -9,7 +9,7 @@ This project uses the R package simmr (Parnell 2020) to estimate proportions of 
 3. Install and load tidyverse and simmr packages.
 4. Run the **simm.r** code.
 
-## Information about the datasets
+## About the datasets
 
 These data were compiled from existing literature for use with a study of the paleodiet of ancient turkeys in northwestern New Mexico. 
 
