@@ -18,7 +18,7 @@ Corrected values assigned to groups "C4 Invertebrates" and "C3 invertebrates" we
 
 **frac.csv** contains published fractionation values for animals. These are be used to input the fractionation correction means and SDs into the model.
 
-**turkeys_hm2021.csv and **turkeys_hm2014.csv** contains original stable isotope data from McCaffery et al. (2021) and McCaffery et al. (2014)
+**turkeys_hm2021.csv** and **turkeys_hm2014.csv** contains original stable isotope data from McCaffery et al. (2021) and McCaffery et al. (2014)
 
 ## References
 
