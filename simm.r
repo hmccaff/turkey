@@ -3,9 +3,12 @@
 # started 10-16-2020
 #
 # This code was used for the analysis published in: 
+#
 # McCaffery et al. 
 # 2021 "Paleodiet of Turkeys (Meleagris gallopavo) in the Early 
-# Pueblo Period of the Northern Southwest", Kiva :
+# Pueblo Period of the Northern Southwest" Kiva.
+#
+# Please cite our work if using this data and/or model
 ################################################################################
 
 library(simmr)
@@ -17,7 +20,7 @@ library(tidyverse)
 ################################################################################
 
 #turkey isotope data
-turk <- read.csv('data/turkeys.csv')
+turk <- read.csv('data/turkeys_hm2021.csv')
 
 #dietary components
 diet <- read.csv('data/diet.csv')

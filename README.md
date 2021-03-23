@@ -18,6 +18,11 @@ Corrected values assigned to groups "C4 Invertebrates" and "C3 invertebrates" we
 
 **frac.csv** contains published fractionation values for animals. These are be used to input the fractionation correction means and SDs into the model.
 
+**turkeys_hm2021.csv and turkeys_hm2014.csv contains original data from McCaffery et al. (2021) and McCaffery et al. (2014)
+
+
 ## References
 
 Andrew Parnell (2020). simmr: A Stable Isotope Mixing Model. R package version 0.4.2. https://CRAN.R-project.org/package=simmr
+McCaffery, Miller and Tykot (2021). Paleodiet of Turkeys (Meleagris gallopavo) in the Early Pueblo Period of the Northern Southwest. Kiva.
+McCaffery, Tykot, Gore, and DeBoer (2014). Stable Isotope Analysis of (Meleagris gallopavo) diet from Pueblo II and Pueblo III sites, middle San Juan region, northwest New Mexico. American Antiquity.
